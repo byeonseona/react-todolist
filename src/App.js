@@ -17,7 +17,7 @@ const Header = styled.div`
 `;
 
 const Body = styled.div`
-  min-height: 500px;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
